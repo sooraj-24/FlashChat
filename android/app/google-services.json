@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970725271588",
+    "project_id": "flash-chat-5afe0",
+    "storage_bucket": "flash-chat-5afe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970725271588:android:5871d566a89065881b10b1",
+        "android_client_info": {
+          "package_name": "co.sooraj.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970725271588-37hnc12k94uatr4rd12bdetqmssagh3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmnX0xVYh5d4XshkLkFi15W-Ha2jtYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970725271588-37hnc12k94uatr4rd12bdetqmssagh3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
